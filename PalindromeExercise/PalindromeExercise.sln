@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeExercise", "PalindromeExercise\PalindromeExercise.csproj", "{1613DB97-4683-4127-A889-0969F895EA1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeExerciseTests", "PalindromeExerciseTests\PalindromeExerciseTests.csproj", "{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1613DB97-4683-4127-A889-0969F895EA1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1613DB97-4683-4127-A889-0969F895EA1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1613DB97-4683-4127-A889-0969F895EA1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1613DB97-4683-4127-A889-0969F895EA1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF3661CD-692A-4BCE-8CA3-6C5A5EB26431}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
